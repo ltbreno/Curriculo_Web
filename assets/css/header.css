@@ -15,7 +15,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(/Portfolio/assets/img/icons/pontos.svg);
+    background-image: url(assets/img/icons/pontos.svg);
 }
 
 .header .photo {
@@ -55,19 +55,19 @@
 }
 
 .information .job::before {
-    background-image: url(/Portfolio/assets/img/icons/job.svg);
+    background-image: url(assets/img/icons/job.svg);
 }
 
 .information .loc::before {
-    background-image: url(/Portfolio/assets/img/icons/loc.svg);
+    background-image: url(assets/img/icons/loc.svg);
 }
 
 .information .email::before {
-    background-image: url(/Portfolio/assets/img/icons/email.svg);
+    background-image: url(assets/img/icons/email.svg);
 }
 
 .information .wpp::before {
-    background-image: url(/Portfolio/assets/img/icons/wpp.svg);
+    background-image: url(assets/img/icons/wpp.svg);
 }
 
 
